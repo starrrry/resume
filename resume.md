@@ -12,10 +12,8 @@
 - 掌握Objective-C与iOS开发，熟悉Xcode开发工具。熟悉Cocoa Touch框架及一些常用的第三方框架。
 - 会使用Reveal，Charles等工具辅助iOS开发。
 - 会使用Realm、FMDB等数据持久化方案。
-- 擅于使用Google独立解决问题。
 - 熟练阅读各类英文技术文档。
 - 会使用Git命令行管理代码。
-- 熟悉HTTP协议。
 
 ## 项目经历
 - 2015/3 —— 2015/4 （大二下半学期）   
