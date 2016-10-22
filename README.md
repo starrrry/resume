@@ -1,20 +1,20 @@
 ## 个人简介
 - 廖天宇
-- 男/1994
-- 浙江
+- 男/1994/浙江
 - 本科/武汉理工大学-计算机科学与技术专业-2013级
 - 联系电话：+86 136-2720-1014
 - 邮箱：im.tianyu.liao@gmail.com
 - 期望职位：iOS开发工程师
+- Github：https://github.com/starrrry
+- Blog：http://starrrry.github.io
 
 ## 专业技能
 - 掌握基本的软件结构设计，需求分析能力。
-- 掌握Objective-C与iOS开发，熟悉Xcode开发工具。熟悉Cocoa Touch框架及一些常用的第三方框架。
-- 会使用Reveal，Charles等工具辅助iOS开发。
-- 会使用Realm、FMDB等数据持久化方案。
+- 掌握Objective-C与iOS开发，熟悉Xcode开发工具。熟悉Cocoa Touch框架及一些常用的第三方框架，会使用Instruments的相关工具调试程序。
+- 了解Swift。
+- 了解Python+Flask。
 - 熟练阅读各类英文技术文档。
 - 会使用Git命令行管理代码。
-- Python 3,Flask。
 
 ## 项目经历
 - 2015/3 —— 2015/4 （大二下半学期）   
@@ -22,11 +22,15 @@
   与2名同学一起开发一款移动社交App（创业项目）。负责iOS端聊天功能的修改与集成。   
 - 2015/6 —— 2015/10 （大二下半学期到大三上半学期）   
   善食   
-  完成移动分享社交App的开发。该项目是与同学合作完成的外包项目，独立完成了iOS端的开发，成功上架App Store，并完成了几次更新。App Store地址：[https://itunes.apple.com/cn/app/shan-shi/id1026118098?mt=8](https://itunes.apple.com/cn/app/shan-shi/id1026118098?mt=8)  
-- 2015/12 —— 至今  
+  完成移动分享社交App的开发。该项目是与同学合作完成的外包项目，独立完成了iOS端的开发，成功上架App Store，并完成了几次更新 
+- 2016/3 —— 2016/9  
   Palette  
-  与3名同学合作尝试从构思，设计到研发完成一款App，目前仍在开发修改中。  
+  与3名同学合作尝试从构思，设计到研发完成一款App。高校计算机大赛移动应用创新赛三等奖（清华与Apple举办）。
 
+## 实习经历
+- 2016/7 —— 2016/8 上海怡行信息科技有限公司    
+	负责协助iOS主程完成公司产品<YOLOBOO>的开发与维护。
+  
 ## 兴趣爱好
 - 设计与交互
 - 喜欢尝试新服务和App
